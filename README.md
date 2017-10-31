@@ -2,4 +2,5 @@
 
 My very **first** repository.
 
-Ivan is a silly boy.
+Ivan and Sandy are friends.
+
